@@ -6,4 +6,4 @@ get_state_gdp(data, state, year):
 
 ## Results
 
-New York dropped in GDP from 2019 to 2020. It decreased 73216 Millions in 2020 compared to 2019. The pandemic hit several large industry in the city such as acommodations, food services, and entertainment. More information: https://www.osc.state.ny.us/reports/covid-19-october-14-2020#:~:text=New%20Yok%20State's%20GDP%20Declined,of%20Economic%20Analysis%20(BEA).
+New York dropped in GDP from 2019 to 2020. It decreased 73216 Millions in 2020 compared to 2019. The pandemic hit large industries of the city such as acommodations, food services, and entertainment. More information: https://www.osc.state.ny.us/reports/covid-19-october-14-2020#:~:text=New%20Yok%20State's%20GDP%20Declined,of%20Economic%20Analysis%20(BEA).
